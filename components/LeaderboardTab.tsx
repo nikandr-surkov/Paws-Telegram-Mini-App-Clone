@@ -60,7 +60,7 @@ const LeaderboardTab = () => {
                             </div>
                             <div className="text-black font-medium">
                                 <div className="text-base">nikandr_s</div>
-                                <div className="text-xs">4,646 PAWS</div>
+                                <div className="text-xs">4,646 GHOST</div>
                             </div>
                         </div>
                         <div className="text-black">#15,355,328</div>
@@ -85,7 +85,7 @@ const LeaderboardTab = () => {
                                 <div>
                                     <div className="text-base font-medium">{item.wallet}</div>
                                     <div className="text-sm font-medium text-[#7c7c7c]">
-                                        {item.balance} PAWS
+                                        {item.balance} GHOST
                                     </div>
                                 </div>
                             </div>
