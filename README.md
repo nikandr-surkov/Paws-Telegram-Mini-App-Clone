@@ -1,5 +1,14 @@
 # Paws Telegram Mini App Clone
 
+<div align="center">
+  <img src="https://nikandr.com/og-image.jpg" alt="Nikandr - Premium Telegram Development Resources" width="600"/>
+  
+  🚀 **Looking to master Telegram Mini App development?**  
+  Visit [nikandr.com](https://nikandr.com) for the best premium content and courses for Telegram developers.
+</div>
+
+---
+
 This repository contains both the initial setup and the final version of the Paws Telegram mini app clone project. The repository includes the basic project structure, necessary images, icons, and styling.
 
 ## Overview
@@ -103,8 +112,17 @@ Follow these instructions to get started with either version of the project:
     └── types.ts
 ```
 
-## Contact
+## Author
+### Nikandr Surkov
+- 🌐 Website: https://nikandr.com
+- 📺 YouTube: https://www.youtube.com/@NikandrSurkov
+- 📢 Telegram Channel: https://t.me/NikandrApps
+- 📱 Telegram: https://t.me/nikandr_s
+- 💻 GitHub: https://github.com/nikandr-surkov
+- 🐦 Twitter: https://x.com/NikandrSurkov
+- 💼 LinkedIn: https://www.linkedin.com/in/nikandr-surkov/
+- ✍️ Medium: https://medium.com/@NikandrSurkov
 
-For any inquiries, please contact me:
-- Telegram: [@nikandr_s](https://t.me/nikandr_s)
-- YouTube: [@NikandrSurkov](https://www.youtube.com/@NikandrSurkov)
+---
+
+Built with ❤️ for the Telegram developer community
